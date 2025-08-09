@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Sujan Baidhya  
 
-<!--
-**SujanBaidhya/SujanBaidhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Python Enthusiast | Beginner Developer | Lifelong Learner**  
+Welcome to my GitHub! I’m passionate about exploring Python, building small projects, and learning something new every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 Currently working on: Basic Python projects & exploring automation
+- 🌱 Learning: Web development & advanced Python concepts
+- 💡 Interests: Problem-solving, clean code, and practical mini-projects
+- 🎯 Goal: Become a full-stack developer
+
+---
+
+## 🛠️ Skills & Tools  
+**Languages:** Python, HTML, CSS  
+**Tools:** Git, GitHub, VS Code  
+**Libraries/Frameworks:** Tkinter, PyQt5, Requests, Pandas  
+
+---
+
+## 📌 Featured Projects  
+- 📂 [Python-Projects](https://github.com/SujanBaidhya/Python-Projects) – A collection of my beginner Python projects.  
+- 🎮 Hangman Game, Rock Paper Scissors, Digital Clock, Weather App, and more.
+
+---
+
+## 📊 GitHub Stats  
+![Sujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujanBaidhya&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujanBaidhya&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SujanBaidhya)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and drop a star on anything you like.*  
